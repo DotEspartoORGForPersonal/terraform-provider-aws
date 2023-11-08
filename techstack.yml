@@ -1,0 +1,1235 @@
+repo_name: DotEspartoORGForPersonal/terraform-provider-aws
+report_id: c9c9043ae3ecee2bd1d6f0c9d849745f
+repo_type: Public
+timestamp: '2023-11-08T11:56:31+00:00'
+requested_by: dependabot[bot]
+provider: github
+branch: main
+detected_tools_count: 113
+tools:
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: Smarty
+  description: Template engine for PHP
+  website_url: http://www.smarty.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source: Repo Metadata
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source: tools/tfsdk2fw/go.mod
+- name: React on Rails Pro
+  description: Go beyond open-source React on Rails to optimize performance, save
+    time, and enhance the user experience
+  website_url: https://www.shakacode.com/react-on-rails-pro/
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/21349/default_094e27ddc20e25f63cdcb9b7eda1dda9c35f2560.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: Spectre.css
+  description: A lightweight, responsive and modern CSS framework
+  website_url: https://picturepan2.github.io/spectre/getting-started.html
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/21978/default_43fb9ca37debcb28caad4f2c831e072783441496.jpg
+  detection_source: tools/tfsdk2fw/go.mod
+- name: ent
+  description: An entity framework for Go
+  website_url: https://entgo.io/
+  version: 0.4.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: Amazon Managed Workflows for Apache Airflow
+  description: Highly available, secure, and managed workflow orchestration for Apache
+    Airflow
+  website_url: https://aws.amazon.com/managed-workflows-for-apache-airflow/
+  version: 1.0.0
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Workflow Manager
+  image_url: https://img.stackshare.io/service/21799/default_c1b593d0eeac611b97edee3d68e1f785312c9914.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Data Generator for Oracle
+  description: Generate Large Datasets of Oracle Test Data
+  website_url: https://www.devart.com/dbforge/oracle/data-generator/
+  version: 0.4.0
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/21191/default_1d21287b1234e1c633629cd5f671afd79b33b571.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Data Warehouses by Freshpaint
+  description: Customer data in any warehouse. Retroactively. In one click
+  website_url: https://www.freshpaint.io/product/warehouses
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Big Data as a Service
+  image_url: https://img.stackshare.io/service/21707/default_8a8dd7da278574d984423a5b59b816f079f8b5c9.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Jitsu
+  description: Open-source event collection and data integration
+  website_url: https://jitsu.com/
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Big Data as a Service
+  image_url: https://img.stackshare.io/service/21529/default_7413c21e0ebfd8eea466763569e8f7defd17e93a.jpg
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Quickwork
+  description: The Integration and API platform to build automated workflows
+  website_url: https://quickwork.co/
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: API Tools
+  image_url: https://img.stackshare.io/service/21122/default_1f970871c388438e737793ed23ce9b5099a178cf.jpg
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: dbForge Data Compare for MySQL
+  description: A powerful, fast, and easy-to-use data comparison tool
+  website_url: https://www.devart.com/dbforge/mysql/datacompare/
+  version: 0.0.4
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/21194/default_39d248dbc488d47c5dc8749e6b46f12697de376e.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: dbForge Query Builder for MySQL
+  description: Generate and Edit MySQL Queries Visually
+  website_url: https://www.devart.com/dbforge/mysql/querybuilder/
+  version: 0.1.0
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/21197/default_8a0f32264df8a72e42495ce2cac4974819fe2aef.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: dbForge Schema Compare for Redshift/PostgreSQL
+  description: Compare and Sync PostgreSQL &amp; Amazon Redshift Databases
+  website_url: https://www.devart.com/dbforge/postgresql/schemacompare/
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/21199/default_fc2ebc762805baf8c27cb23feb12da62593659c2.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: dbForge Search for SQL Server
+  description: An SSMS add-in that allows you to quickly find SQL objects, data, and
+    text
+  website_url: https://www.devart.com/dbforge/sql/search/
+  version: 0.5.2
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/21187/default_ad21b860d7b33a39205da4940637922485e52b8e.png
+  detection_source_url: go.sum
+  detection_source: go.mod
+- name: Cirrus CI
+  description: Make your development cycle fast, efficient, and secure
+  website_url: https://cirrus-ci.org/
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/21405/default_606db6f1b72bbb18cb2ac7ffea643b8f1fcc4981.jpg
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: go.mod
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source: ".ci/providerlint/vendor/golang.org/x/net/http2/Dockerfile"
+- name: Dockter
+  description: A low-overhead, open-source Docker log management tool
+  website_url: https://www.dockter.io/
+  version: 1.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/21619/default_b1c7a5e89d22a48d20cf2e75ba77e8e26284275e.jpg
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: Earthly
+  description: Build anything via containers
+  website_url: https://www.earthly.dev/
+  version: 1.13.0
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/21148/default_4518d3c5a1f763ea9eb5a5959847ac06b2b3cbe5.jpg
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source: ".github/workflows/yamllint.yml"
+- name: Istio
+  description: Open platform to connect, manage, and secure microservices, by Google,
+    IBM, and Lyft
+  website_url: https://istio.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Microservices Tools
+  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source: mkdocs.yml
+- name: JBehave
+  description: A framework for Behaviour-Driven Development (BDD)
+  website_url: https://jbehave.org/
+  version: 1.5.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/21152/default_be7d0621c1cb8392534d70dac8830cce7a486fd0.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: ManageEngine OpManager
+  description: Trusted network monitoring software
+  website_url: https://www.manageengine.com/network-monitoring/?utm_source=Stackshare.io&utm_medium=Website
+  version: 1.5.0
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Network Monitoring
+  image_url: https://img.stackshare.io/service/21358/default_8c3aa81460935ebdae05c8c9783dffe0acc1278c.jpg
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: OpenYurt
+  description: Extending your native Kubernetes to edge (by Alibaba)
+  website_url: https://openyurt.io/en-us/
+  version: 1.0.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: skaff/go.mod
+- name: Prometheus
+  description: An open-source service monitoring system and time series database,
+    developed by SoundCloud
+  website_url: http://prometheus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source: ".ci/tools/go.mod"
+- name: Terraform
+  description: Describe your complete infrastructure as code and build resources across
+    providers
+  website_url: https://www.terraform.io/
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
+  detection_source: examples/two-tier/main.tf
+- name: Terraform Registry
+  description: Describe your complete infrastructure as code and build resources across
+    providers
+  website_url: https://registry.terraform.io/
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
+  detection_source: examples/two-tier/main.tf
+- name: Testify
+  description: A toolkit with common assertions and mocks that plays nicely with the
+    standard library
+  website_url: https://github.com/stretchr/testify
+  version: 1.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Go Testing
+  image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source: ".ci/providerlint/vendor/google.golang.org/appengine/.travis.yml"
+- name: ZyXel
+  description: Your Networking Ally
+  website_url: https://www.zyxel.com/us/en/
+  version: 0.3.0
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Networking Hardware
+  image_url: https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: examples/api-gateway-websocket-chat-app/sendmessage/package.json
+- name: Platform9 Managed Bare Metal
+  description: Build Bare Metal Clouds Anywhere Instantly
+  website_url: https://platform9.com/bare-metal/
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Cloud Hosting
+  image_url: https://img.stackshare.io/service/21776/default_f27c40bb1134c9bc82c4862853824f8983cb377d.jpg
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Amazon Lumberyard
+  description: A game engine with no royalties or seat fees
+  website_url: https://aws.amazon.com/lumberyard/
+  version: 1.4.8
+  open_source: false
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Game Development
+  image_url: https://img.stackshare.io/service/21759/default_5c53af6aae91062d807462815c519a7745aabf4d.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: LaunchMatic
+  description: Design mobile app screenshots for the Apple App Store and Google Play
+    Store
+  website_url: https://www.launchmatic.app/
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Screenshots as a Service
+  image_url: https://img.stackshare.io/service/21135/default_59aa10a4d0de8cc95af630b37d93ffdd04bc93fd.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: Mojito
+  description: A professional, open source split testing framework
+  website_url: https://mojito.mx/
+  version: 1.19.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Analytics
+  sub_category: A/B Testing Analytics
+  image_url: https://img.stackshare.io/service/21128/default_365d9038c30c48f50098c35273682af3bc86e218.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Simple Analytics
+  description: Simple, clean, and privacy-friendly analytics
+  website_url: https://simpleanalytics.com
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Analytics
+  sub_category: General Analytics
+  image_url: https://img.stackshare.io/service/21298/default_3e94918409fb0890c50a99024c2b47b1df7577e3.jpg
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: UserExperior
+  description: User recordings, heatmaps, funnel drop analysis, and app analytics
+    for mobile apps
+  website_url: https://www.userexperior.com/
+  version: 1.1.5
+  open_source: false
+  hosted_saas: false
+  category: Analytics
+  sub_category: Heatmap Analytics
+  image_url: https://img.stackshare.io/service/21784/default_4868b22639885f7e5ae55e012952ca11acc0da00.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: AppConvertly.com
+  description: Convert your website into iOS &amp; Android app. No coding
+  website_url: https://www.appconvertly.com/
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Mobile
+  sub_category: Cross-Platform Mobile Tools
+  image_url: https://img.stackshare.io/service/21546/default_9d8d550cb66354aaa97db11bda2dadc569edb8ec.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: Appzi
+  description: A web based user feedback platform that enables SaaS companies to collect
+    product feedback, right from within their website or app
+  website_url: https://www.appzi.com/
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Feedback Widget
+  image_url: https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Axiell Collections
+  website_url: https://www.axiell.com/solutions/product/axiell-collections/
+  version: 0.4.14
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21203/default_e83656254ceca8a19a90cf2e6b31c38ba31a23bb.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: Blueground
+  description: Move-in ready, beautifully furnished apartments for stays of a month,
+    year or even longer
+  website_url: https://www.theblueground.com/
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Property Management
+  image_url: https://img.stackshare.io/service/21348/default_1708964b3ede87764620fdb8041cec7b4a275188.jpg
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: CALIPIO Recorder
+  description: Secure screen and webcam recording in your browser
+  website_url: https://recorder.calipio.com
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21845/default_68651d778c8418423d985b3864a908913648b92c.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Content Discovery Feed
+  description: Get inspired by new articles whenever you open a new tab
+  website_url: https://storychief.io/content-discovery
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Collaboration
+  sub_category: Activity Feeds as a Service
+  image_url: https://img.stackshare.io/service/21138/default_1333cc334a57817c9ab69aeb76cfdcafe582056a.jpg
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: DAGsHub
+  description: Powerful data science platform for collaboration, review, experiment
+    tracking, and data version control
+  website_url: https://dagshub.com
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/21300/default_a169b2bfb5d5868361ec02044e5a39e1896c433d.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: DrugsDisclosed
+  description: DrugsDisclosed.com, the ‘medication Trustpilot’, allows patients to
+    share real world experiences of their medicines.
+  website_url: https://www.DrugsDisclosed.com
+  version: 0.3.11
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Healthcare
+  image_url: https://img.stackshare.io/service/21139/default_a91af1b38a50bbe8d5c2a2885d3add753139c68e.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Dutypare
+  description: Comparing duty free products from worldwide shops.
+  website_url: https://dutypare.com
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21119/default_7d7cdfe126e00b141809117af1af8ba177913dc4.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: EmailOctopus
+  description: Email marketing for less
+  website_url: https://emailoctopus.com/
+  version: 1.24.0
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Email Marketing
+  image_url: https://img.stackshare.io/service/21207/default_4e5599aba925e3b3a2109b439679659542786fed.jpg
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: FinCRM
+  description: CRM for Small Businesses
+  website_url: http://www.fincrm.net
+  version: 1.6.1
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: CRM
+  image_url: https://img.stackshare.io/service/21129/default_a6389ef2c20db890998e2b9b194d515eb3e79443.jpg
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: skaff/go.mod
+- name: Financial Cents
+  description: An easy-to-use accounting practice management software
+  website_url: https://financial-cents.com/
+  version: 0.1.0
+  open_source: false
+  hosted_saas: false
+  category: Back Office
+  sub_category: Accounting
+  image_url: https://img.stackshare.io/service/21601/default_9e3ad30996dd9561abe373f7d6ad50535688c245.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: HashiCorp Boundary
+  description: Identity-based access management for dynamic infrastructure
+  website_url: https://www.boundaryproject.io/
+  version: 0.2.3
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Cloud Access Management
+  image_url: https://img.stackshare.io/service/21341/default_88d8c23f127a6746a8420de2e3d47bdb255aa8db.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: IGMétricaPRO5
+  description: Financial Risk Management System and Management Information Analysis
+  website_url: https://www.informaciongerencial.com/ig-metrica/
+  version: 1.2.0
+  open_source: false
+  hosted_saas: false
+  category: Back Office
+  sub_category: Expense Management
+  image_url: https://img.stackshare.io/service/21317/default_73ca6ebd8c497de077074d77950b7e196d533232.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: InVision Studio
+  description: Screen design. Redesigned
+  website_url: https://www.invisionapp.com/studio
+  version: 0.5.0
+  open_source: false
+  hosted_saas: false
+  category: Design
+  sub_category: Graphic Design
+  image_url: https://img.stackshare.io/service/21319/default_5b524a13b50d545f281f91ae8135508b36ce90be.jpg
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: JetBrains Toolbox
+  website_url: https://www.jetbrains.com/lp/toolbox/
+  version: 0.3.1
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21159/default_15d84d743a05c34a32cfd8708e7ef1266d0c4b77.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: Layers Education
+  description: Platform to integrate digital solutions in the education market
+  website_url: https://layers.education/
+  version: 1.44.260
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21161/default_8b04c9d4f8310a7ae636d0b92fdd9fd925afe181.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Modyo Customer Portals
+  description: Build highly personalized customer portals
+  website_url: https://www.modyo.com/solution/customer-portals
+  version: 1.9.5
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Customer Profiles
+  image_url: https://img.stackshare.io/service/21315/default_499399dc690af0e91d379644dec00880e20c6f5a.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: NextGen Connect
+  description: Healthcare Integration Engine
+  website_url: https://www.nextgen.com/products-and-services/integration-engine
+  version: 0.0.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Healthcare
+  image_url: https://img.stackshare.io/service/21261/default_d293f99ced885f572a3f940a74fbe1f211261a96.jpg
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: NoteCandy
+  description: Thematic cover images for  Notion.so
+  website_url: https://www.notecandy.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21534/default_60d1532dc4af1183e4cbd4e4bd7ed01098499fb5.png
+  detection_source: ".ci/tools/go.mod"
+- name: OGCAPI
+  website_url: https://ogcapi.ogc.org/
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21651/default_9a3d2b24ff68521a199b799149b8c1415f5be9fc.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Outflash
+  description: "#1 email enhancement add-in for Outlook"
+  website_url: https://outflash.xyz
+  version: 1.67.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21931/default_4ca7826f0adcaa1d0edab80159dce2b16e06c99c.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: PodRoom
+  description: A chatroom platform for Podcast communities.
+  website_url: https://www.podroom.live
+  version: 2.2.2
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Customer Community
+  image_url: https://img.stackshare.io/service/21118/default_9a7a00fb1b5d7592ccf97fa29f819c3ea64179da.jpg
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Portfoleon
+  description: Lean PPM and roadmapping software
+  website_url: https://www.portfoleon.com
+  version: 1.2.0
+  open_source: false
+  hosted_saas: false
+  category: Collaboration
+  sub_category: Project Management
+  image_url: https://img.stackshare.io/service/21782/default_fcbbc5adc35ec5a0ba74910b4e7156d57c1d3155.jpg
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: PyCodeQual
+  website_url: https://pycodequ.al/i
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21246/default_ea396f63a8974b2c19460a4ea524ea4c3a3a110f.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Quickwork Journey Builder
+  website_url: https://automation.quickwork.co/#/
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21121/default_682895d4f0a2777cec582ef7c7f20fd167c1ce11.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Savio.io
+  description: Track feature requests from Intercom, Help Scout, Slack, and more
+  website_url: https://www.savio.io/
+  version: 0.0.9
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Feedback Widget
+  image_url: https://img.stackshare.io/service/21209/default_fd6f4bea3e63552cb3b90f56c124b0f109addbee.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Solati
+  description: Comprehensive solution for collection management
+  website_url: https://www.solati.co/
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Back Office
+  sub_category: Business Process Management
+  image_url: https://img.stackshare.io/service/21306/default_745b6ac852730d7ce9c6b73785d3f5936c7abd7a.jpg
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: Stagy
+  description: Stagings made simple
+  website_url: https://stagy.dev/
+  version: 1.2.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21471/default_e6a21c3094795c651f23af890e15de225b38ebb2.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: Stormkit.io
+  description: Stormkit builds, deploys and scales your javascript apps and integrates
+    perfectly with your git flow.
+  website_url: https://stormkit.io
+  version: 1.12.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21627/default_a5ddc88cc1e05e790fd145e98b2eaf4c1f47e105.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source: ".ci/providerlint/vendor/golang.org/x/net/http2/Dockerfile"
+- name: Undersend
+  description: Send activities-based emails to your users to increase engagement and
+    conversion rate.
+  website_url: https://undersend.com
+  version: 1.8.6
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21250/default_fce6264bf681941b3ae29f7332544704632b6a4a.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: Upfeed
+  description: Get instant feedback from now
+  website_url: https://www.upfeed.co/
+  version: 1.7.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21841/default_b5a2e282bf6a607a5275246db8d4b596cc0b794e.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: WSL
+  description: Run a GNU/Linux environment directly on Windows
+  website_url: https://docs.microsoft.com/en-us/windows/wsl/about
+  version: 1.15.11
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: ZyWall
+  website_url: https://www.zyxel.com/us/en
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21125/default_a37b436cb360d7db5c0521e74ebeb8e50f8ffc58.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: arrow-kt
+  website_url: https://arrow-kt.io
+  version: 0.0.3
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21132/default_742c3d430f39b43d45c52805a75a9334d7d97a18.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: dbForge Data Generator for SQL Server
+  description: A powerful GUI tool for a fast generation of meaningful test data for
+    databases
+  website_url: https://www.devart.com/dbforge/sql/data-generator/
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21180/default_ea71b530d72efa192bf97c176bd3823d8911a9d8.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: firebase remote config
+  website_url: https://firebase.google.com/docs/remote-config
+  version: 0.26.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21151/default_694421a607ee3b50a4add2e20d781a7ad15ab0b4.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: 'go '
+  description: Go will make you love programming again. I promise.
+  website_url: https://golang.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3458/v02jhlxou71qagr6mwet_normal.png
+  detection_source: ".ci/providerlint/helper/awsprovidertype/keyvaluetags/funcs.go"
+- name: meml
+  website_url: https://github.com/fivnex/meml
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/22004/default_50abed759307f52ce2c594a4b0d1deb1999a4b99.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: nootiz
+  description: The fastest visual website feedback tool for web agencies, web designers,
+    copywriters and web developers
+  website_url: https://www.nootiz.com/en/
+  version: 1.7.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21170/default_f061e6941a00ef2eeb5954eb77a48b7f6626fd91.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: reZme
+  description: Empowering accommodation providers to drive more bookings DIRECT.
+  website_url: https://www.rezme.com
+  version: 1.4.1
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21131/default_9b9bb8bfc9ef61de5963a2296071237110f1274f.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: rennflow
+  website_url: https://rennflow.com
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21201/default_80012ffc0fdda5946338789250eab4bd462bfa97.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: sktime
+  description: A unified toolbox for machine learning with time series (by The Alan
+    Turing Institute)
+  website_url: https://www.sktime.org/en/latest/
+  version: 1.3.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/21145/default_e666d7c3f53fbe0134f58c3072ae6af7c46cf562.jpg
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: apiversions
+  description: 'Gophercloud: an OpenStack SDK for Go'
+  package_url: https://pkg.go.dev/github.com/gophercloud/gophercloud/openstack/blockstorage/v1/apiversions
+  version: 0.3.4
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: clientcmd/api
+  description: Production-Grade Container Scheduling and Management
+  package_url: https://pkg.go.dev/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api
+  version: 1.3.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: dockerclient
+  description: Docker client library in Go
+  package_url: https://pkg.go.dev/github.com/samalba/dockerclient
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: fsnotify
+  description: Cross-platform file system notifications for Go
+  package_url: https://pkg.go.dev/github.com/fsnotify/fsnotify
+  version: 1.5.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: gensupport
+  description: Auto-generated Google APIs for Go
+  package_url: https://pkg.go.dev/google.golang.org/api/gensupport
+  version: 1.7.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: go-restful
+  description: Package for building REST-style Web Services using Go
+  package_url: https://pkg.go.dev/github.com/emicklei/go-restful
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: go-uuid/uuid
+  description: The uuid package generates and inspects UUIDs
+  package_url: https://pkg.go.dev/code.google.com/p/go-uuid/uuid
+  version: 0.1.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: gofuzz
+  description: Fuzz testing for go
+  package_url: https://pkg.go.dev/github.com/google/gofuzz
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: gojsonpointer
+  description: JSON Pointer implementation in Golang
+  package_url: https://pkg.go.dev/github.com/xeipuuv/gojsonpointer
+  version: 0.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: gomega
+  description: Ginkgo's Preferred Matcher Library
+  package_url: https://pkg.go.dev/github.com/onsi/gomega
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: govcloudair
+  description: VCloud Air API bindings for Golang
+  package_url: https://pkg.go.dev/github.com/vmware/govcloudair
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: hcl
+  description: HCL is the HashiCorp configuration language
+  package_url: https://pkg.go.dev/github.com/hashicorp/hcl
+  version: 1.2.0
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: httplex
+  description: Go supplementary network libraries
+  package_url: https://pkg.go.dev/golang.org/x/net/lex/httplex
+  version: 0.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: iterator
+  description: Auto-generated Google APIs for Go
+  package_url: https://pkg.go.dev/google.golang.org/api/iterator
+  version: 1.4.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: json-patch
+  description: A Go library to apply RFC6902 patches and create and apply RFC7386
+    patches
+  package_url: https://pkg.go.dev/github.com/evanphx/json-patch
+  version: 0.5.10
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: mapstructure
+  description: Go library for decoding generic map values into native Go structures
+  package_url: https://pkg.go.dev/github.com/mitchellh/mapstructure
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: pbkdf2
+  description: Go supplementary cryptography libraries
+  package_url: https://pkg.go.dev/golang.org/x/crypto/pbkdf2
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: pkcs11
+  description: Pkcs11 wrapper for Go
+  package_url: https://pkg.go.dev/github.com/miekg/pkcs11
+  version: 1.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: pkg/apis/extensions
+  description: Go client for Kubernetes
+  package_url: https://pkg.go.dev/k8s.io/client-go/pkg/apis/extensions
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: pp
+  description: Colored pretty printer for Go language
+  package_url: https://pkg.go.dev/github.com/k0kubun/pp
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: properties
+  description: Java properties scanner for Go
+  package_url: https://pkg.go.dev/github.com/magiconair/properties
+  version: 0.0.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: go.sum
+  detection_source: tools/tfsdk2fw/go.mod
+- name: protocol/ec2query
+  description: AWS SDK for the Go programming language
+  package_url: https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query
+  version: 1.14.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: tools/tfsdk2fw/go.mod
+- name: registry/service
+  description: Production-Grade Container Scheduling and Management
+  package_url: https://pkg.go.dev/k8s.io/kubernetes/pkg/registry/service
+  version: 1.1.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: go.sum
+  detection_source: tools/tfsdk2fw/go.mod
+- name: swift
+  description: Go language interface to Swift / Openstack Object Storage / Rackspace
+    cloud files
+  package_url: https://pkg.go.dev/github.com/ncw/swift
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/tools/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: testify/mock
+  description: A toolkit with common assertions and mocks that plays nicely with the
+    standard library
+  package_url: https://pkg.go.dev/github.com/stretchr/testify/mock
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: ".ci/providerlint/go.sum"
+  detection_source: ".ci/tools/go.mod"
+- name: virtualmachinedisk
+  description: Microsoft Azure SDK for Go
+  package_url: https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/management/virtualmachinedisk
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: go.sum
+  detection_source: go.mod
+- name: aws-sdk
+  description: AWS SDK for JavaScript
+  package_url: https://www.npmjs.com/aws-sdk
+  version: 2.655.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16018/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: examples/api-gateway-websocket-chat-app/onconnect/package.json
+  detection_source: examples/api-gateway-websocket-chat-app/sendmessage/package.json
+  vulnerabilities:
+  - name: Prototype Pollution via file load in aws-sdk and @aws-sdk/shared-ini-file-loader
+    cve_id: CVE-2020-28472
+    cve_url: https://github.com/advisories/GHSA-rrc9-gqf8-8rwg
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.814.0
