@@ -1,8 +1,8 @@
 repo_name: DotEspartoORGForPersonal/terraform-provider-aws
-report_id: ef017bc883f10c5d9a3bcdebdc1de968
+report_id: cec14fc6803bdfdc3647c9c1d24d1f57
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-26T15:42:08+00:00'
+timestamp: '2024-01-08T15:22:33+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: main
@@ -18,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -28,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -37,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.teamcity/components/generated/service_orgacct.kt
   detection_source: ".teamcity/components/generated/service_orgacct.kt"
   last_updated_by: Graham Davison
   last_updated_on: 2021-11-09 22:38:56.000000000 Z
@@ -49,6 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -59,6 +63,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws
   detection_source: Repo Metadata
 - name: Smarty
   description: Template engine for PHP
@@ -68,6 +73,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws
   detection_source: Repo Metadata
 - name: Protobuf
   description: Google's data interchange format
@@ -77,6 +83,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.mod
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-08-15 15:02:46.000000000 Z
@@ -104,6 +111,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/21978/default_43fb9ca37debcb28caad4f2c831e072783441496.jpg
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/go.mod
   detection_source: ".ci/providerlint/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-10 13:36:43.000000000 Z
@@ -264,6 +272,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/vendor/golang.org/x/net/http2/Dockerfile
   detection_source: ".ci/providerlint/vendor/golang.org/x/net/http2/Dockerfile"
   last_updated_by: Graham Davison
   last_updated_on: 2021-09-30 22:07:56.000000000 Z
@@ -303,6 +312,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -312,6 +322,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.github/workflows/acctest-terraform-lint.yml
   detection_source: ".github/workflows/acctest-terraform-lint.yml"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-14 06:57:25.000000000 Z
@@ -325,6 +336,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/.semgrep-service-name1.yml
   detection_source: ".ci/.semgrep-service-name1.yml"
   last_updated_by: Dirk Avery
   last_updated_on: 2022-05-23 19:59:12.000000000 Z
@@ -379,6 +391,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.mod
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-05-10 06:06:06.000000000 Z
@@ -392,6 +405,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/examples/two-tier/main.tf
   detection_source: examples/two-tier/main.tf
   last_updated_by: Graham Davison
   last_updated_on: 2020-07-23 00:51:47.000000000 Z
@@ -405,6 +419,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/examples/two-tier/main.tf
   detection_source: examples/two-tier/main.tf
   last_updated_by: Graham Davison
   last_updated_on: 2020-07-23 00:51:47.000000000 Z
@@ -432,6 +447,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/vendor/github.com/agext/levenshtein/.travis.yml
   detection_source: ".ci/providerlint/vendor/github.com/agext/levenshtein/.travis.yml"
   last_updated_by: Graham Davison
   last_updated_on: 2021-09-30 22:07:56.000000000 Z
@@ -456,6 +472,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/examples/api-gateway-websocket-chat-app/onconnect/package.json
   detection_source: examples/api-gateway-websocket-chat-app/onconnect/package.json
   last_updated_by: Kit Ewbank
   last_updated_on: 2019-07-28 21:03:13.000000000 Z
@@ -786,6 +803,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21534/default_60d1532dc4af1183e4cbd4e4bd7ed01098499fb5.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/tools/go.mod
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-24 13:19:12.000000000 Z
@@ -900,6 +918,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/vendor/golang.org/x/net/http2/Dockerfile
   detection_source: ".ci/providerlint/vendor/golang.org/x/net/http2/Dockerfile"
   last_updated_by: Graham Davison
   last_updated_on: 2021-09-30 22:07:56.000000000 Z
@@ -987,6 +1006,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3458/v02jhlxou71qagr6mwet_normal.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/terraform-provider-aws/blob/main/.ci/providerlint/helper/awsprovidertype/keyvaluetags/funcs.go
   detection_source: ".ci/providerlint/helper/awsprovidertype/keyvaluetags/funcs.go"
   last_updated_by: Brian Flad
   last_updated_on: 2020-04-30 12:30:53.000000000 Z
