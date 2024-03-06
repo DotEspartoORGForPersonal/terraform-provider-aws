@@ -2,7 +2,7 @@ repo_name: DotEspartoORGForPersonal/terraform-provider-aws
 report_id: 371fbd474f6fbcfbc631dfc9d4ea376f
 version: 0.1
 repo_type: Public
-timestamp: '2024-03-06T14:31:48+00:00'
+timestamp: '2024-03-06T14:36:10+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: main
